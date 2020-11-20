@@ -136,17 +136,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/database/migrations" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\newlaravelproject" />
+      <recent name="C:\xampp\htdocs\newlaravelproject\database\migrations" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\newlaravelproject\public\css" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\newlaravelproject\database\migrations" />
     </key>
   </component>
   <component name="RunManager">
@@ -165,7 +166,7 @@
       <updated>1605809931635</updated>
       <workItem from="1605809933067" duration="5639000" />
       <workItem from="1605817686355" duration="2295000" />
-      <workItem from="1605868206146" duration="11168000" />
+      <workItem from="1605868206146" duration="12448000" />
     </task>
     <servers />
   </component>
