@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b504a7a-8e3b-4033-ac45-a63790a70cbf" name="Default Changelist" comment="" />
+    <list default="true" id="7b504a7a-8e3b-4033-ac45-a63790a70cbf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/newlaravelproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/newlaravelproject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/pages/teacher/add-task.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/teacher/add-task.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/pages/teacher/edit-task.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/teacher/edit-task.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +23,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -126,9 +135,11 @@
       <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
       <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
       <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
     </include_path>
   </component>
   <component name="ProjectId" id="1kWITq4fvbLGN1kD5qN8WzHCtbt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -167,6 +178,7 @@
       <workItem from="1605809933067" duration="5639000" />
       <workItem from="1605817686355" duration="2295000" />
       <workItem from="1605868206146" duration="12636000" />
+      <workItem from="1605882805130" duration="70000" />
     </task>
     <servers />
   </component>
